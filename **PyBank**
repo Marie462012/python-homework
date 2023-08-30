@@ -1,4 +1,4 @@
-mport csv #Import csv module
+import csv #Import csv module
 
 with open ('budget_data.csv') as csvfile: #Start csv file handling
 
